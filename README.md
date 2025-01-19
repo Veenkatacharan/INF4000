@@ -21,7 +21,7 @@ The composite visualization integrates the following charts:
 
 ### Example Visualization
 
-![Composite Visualization](Composite_Visualization.png)
+![Composite Visualization](Composite_Visualisation.png)
 
 ## Key Messages
 
