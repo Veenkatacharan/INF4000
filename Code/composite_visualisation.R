@@ -77,4 +77,4 @@ composite_visualisation <- composite_visualisation +
 print(composite_visualisation)
 
 # Save the composite visualisation as a PNG file
-ggsave("composite_visualisation.png", composite_visualisation, width = 14, height = 12)
+ggsave("Composite_Visualisation.png", composite_visualisation, width = 14, height = 12)
