@@ -35,4 +35,4 @@ To reproduce the visualizations, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/news-coverage-visualizations.git
+   git clone https://github.com/Veenkatacharan/INF4000.github.io.git
